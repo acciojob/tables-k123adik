@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.table{
+	border-collapse:collapse;
+	width:100%;
+	font:monospace;
+	text:end;
+	fw:bold;
+}
+td{
+	text-align:center;
+}
+thead{
+	background-color:black;
+	color:white;
+}
